@@ -1,0 +1,1 @@
+.menu {    background: #FFDEAD;    width: 20%;    display: flex;    flex-direction: column;    margin-right: 30px;    padding: 30px;    box-sizing: border-box;    height: 100%;}.menu-link {    margin-bottom: 10px;}.quotes-container {    display: flex;}.quotes {    width: 100%;}

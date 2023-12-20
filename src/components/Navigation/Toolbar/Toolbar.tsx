@@ -1,0 +1,1 @@
+import {FC} from "react";import {NavLink} from "react-router-dom";import "./Toolbar.css"export const Toolbar: FC = () => {	return (		<header className="Toolbar">			<div className="logo">				<NavLink to="/">Quotes Central</NavLink>			</div>			<nav>				<NavLink to="/">Quotes</NavLink>				<NavLink to="/quotes/add">Submit new quote</NavLink>			</nav>		</header>	)}

@@ -1,0 +1,1 @@
+export type TQuote = {	id?: string	category: string,	author: string,	quoteText: string}
